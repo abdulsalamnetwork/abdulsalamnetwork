@@ -5,7 +5,7 @@
 ### Telecommunication Engineer · Cybersecurity Enthusiast · Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsalam-bashir-aa2b18246)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BashLaw-Cyber)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulsalamNetwork)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsalamolarinoyebashir@gmail.com)
 
 </div>
@@ -14,29 +14,17 @@
 
 ## 🧭 About Me
 
-I'm a **Telecommunication Engineering graduate** (B.Eng., Second Class Upper – 4.40/5.0) from the Federal University of Technology, Minna, Nigeria. I wear multiple hats: **CEO & Lead Developer** at Bashlaw Global Technologies LTD, where I build digital products targeting Nigeria's education and healthcare sectors.
+I'm a **Telecommunication Engineering graduate** (B.Eng., Second Class Upper – 4.40/5.0) from the Federal University of Technology, Minna, Nigeria. 
 
 My background spans **networking, cybersecurity, IT support**, and **software development** — with real-world experience ranging from drone video feed systems at the Nigerian Air Force to university IT infrastructure. I'm deeply passionate about solving real-world problems with technology.
-
----
-
-## 🏢 What I'm Building
-
-### 🏫 SchoolSync
-> A mobile application designed to streamline school administration and communication for Nigerian educational institutions.
-
-### 🏥 CareBridge
-> A healthcare-focused mobile platform built to bridge the gap in patient-provider connectivity in Nigeria.
-
----
 
 ## 💼 Experience
 
 | Role | Organization | Location |
 |------|-------------|----------|
-| 🚀 CEO & Lead Developer | **Bashlaw Global Technologies LTD** | Niger State, Nigeria |
-| 🖥️ IT Support Specialist | **ITS FUTMinna** | Minna, Niger State |
 | 🛰️ IT Support / Research | **Nigerian Air Force, HQ 102 ISR GP** | Yola, Adamawa State |
+| 🖥️ IT Support Specialist | **ITS FUTMinna** | Minna, Niger State |
+| 🖥️ IT Support / Typist | **Hasbunallahi Enterprise** | Offa, Kwara State |
 
 ---
 
@@ -46,8 +34,10 @@ My background spans **networking, cybersecurity, IT support**, and **software de
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Configuration-informational?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP%20%26%20Routing-Switching-blue?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN%20-Configuration?style=flat-square)
+![STATIC Routing](https://img.shields.io/badge/Static%20%26%20Routing-Switching-blue?style=flat-square)
 
-- IP Addressing, LAN/WAN Configuration
+- IP Addressing, LAN/WAN Configuration, VLAN
 - Routing & Switching, DHCP, Static Routing
 
 ### 🔐 Security
@@ -71,11 +61,11 @@ My background spans **networking, cybersecurity, IT support**, and **software de
 
 ## 🔬 Key Projects
 
-### 📡 Network Simulation Project *(Cisco Packet Tracer)*
-- Designed and configured a small office network with IP addressing, DHCP, and static routing
+### 📡 Network Simulation Project *(Cisco Packet Tracer)* [CCNA-200-301-LABS](https://github.com/abdulsalamnetwork/ccna-200-301-labs)
+- Designed and configured a office network with IP addressing, DHCP, static routing and VLAN 
 - Implemented basic network security measures and troubleshooting procedures
 - Demonstrated practical networking concepts in a simulated environment
-
+  
 ### 🔒 API Security Demo Environment
 - Simulated real-world API vulnerability scenarios based on industry-standard security concepts
 - Applied hands-on API security principles to identify and mitigate common attack vectors
