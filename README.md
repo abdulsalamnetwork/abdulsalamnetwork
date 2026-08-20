@@ -35,10 +35,12 @@ My background spans **networking, cybersecurity, IT support**, and **software de
 ![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Configuration-informational?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP%20%26%20Routing-Switching-blue?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN%20-Configuration?style=flat-square)
-![STATIC Routing](https://img.shields.io/badge/Static%20%26%20Routing-Switching-blue?style=flat-square)
+![Routing](https://img.shields.io/badge/Static%20%26%20Routing-Switching-blue?style=flat-square)
+![EtherChannel](https://img.shields.io/badge/EtherChannel%20-Configuration?style=flat-square)
 
-- IP Addressing, LAN/WAN Configuration, VLAN
-- Routing & Switching, DHCP, Static Routing
+
+- IP Addressing, LAN/WAN Configuration, VLAN, Etherchannel
+- Routing & Switching, DHCP, Static and Dynamic Routing (OSPF)
 
 ### 🔐 Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
